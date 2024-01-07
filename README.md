@@ -66,6 +66,7 @@ We appreciate your citations if you find this repository useful to your research
   author={Alex X. Wang and Binh P. Nguyen},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2024},
-  publisher={IEEE}
+  publisher={IEEE},
+  note={submitted}
 }
 ```
